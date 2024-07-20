@@ -65,6 +65,3 @@ The weight is: 21
 ![Graph Visualization Example](GraphExample.jpg)
 
 
-### License
-This project is licensed under the MIT [License](Licence).
-
